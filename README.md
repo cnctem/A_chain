@@ -19,6 +19,7 @@ git clone <项目地址>
 2. 安装依赖（全局）
 ```bash
 npm install -g npm@10.8.2
+npm install -g hardhat@2.12.0
 ```
 
 ## 使用说明
