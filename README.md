@@ -47,4 +47,7 @@ CHAIN_ID=31337
 CONTRACT_ADDRESS=0x0000000000000000000000000000000000000000
 PRIVATE_KEY=your_private_key_here
 ```
-
+### How to test
+```bash
+npx hardhat test test/performance.js
+```
